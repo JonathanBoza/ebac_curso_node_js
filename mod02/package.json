@@ -1,0 +1,14 @@
+{
+  "name": "ebac-nodejs-mod02",
+  "version": "1.0.0",
+  "description": "Módulo 02 - Introdução à linguagem - Curso Node.js EBAC",
+  "main": "exercicio1.js",
+  "scripts": {
+    "ex1": "node exercicio1.js",
+    "ex2": "node exercicio2.js",
+    "start": "node exercicio1.js && node exercicio2.js"
+  },
+  "keywords": ["nodejs", "ebac", "modulo02", "javascript"],
+  "author": "Jonathan Boza",
+  "license": "MIT"
+}
