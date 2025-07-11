@@ -1,0 +1,23 @@
+# Teste Git - Módulo 03
+
+Este é um arquivo de teste para o exercício de Git do Módulo 03.
+
+## Informações do Exercício
+- **Módulo:** 03 - Introdução ao Git
+- **Exercício:** Mastering Git
+- **Arquivo:** teste-git.txt
+- **Objetivo:** Praticar comandos básicos do Git
+
+## Comandos Utilizados
+1. git add .
+2. git commit -m "Adiciona teste-git.txt"
+3. git push origin main
+
+## Status
+✅ Arquivo criado com sucesso
+✅ Pronto para commit e push
+
+---
+**Data:** $(date)
+**Autor:** Jonathan Boza
+**Curso:** EBAC - Node.js
