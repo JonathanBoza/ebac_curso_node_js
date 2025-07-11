@@ -1,5 +1,7 @@
 # EBAC - Curso Node.js - Módulo 01
 
+**🔗 Repositório GitHub:** https://github.com/JonathanBoza/ebac_curso_node_js
+
 ## Exercício: Executando o ambiente
 
 ### Objetivo
@@ -50,3 +52,11 @@ v20.19.3
 
 ### Próximos passos
 O ambiente está pronto para começar a desenvolver aplicações Node.js!
+
+---
+
+## 📂 Informações do Repositório
+- **GitHub:** https://github.com/JonathanBoza/ebac_curso_node_js
+- **Autor:** JonathanBoza
+- **Curso:** EBAC - Node.js
+- **Módulo:** 01 - Preparando o ferramental
